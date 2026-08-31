@@ -10,4 +10,4 @@ I'm Kenny Bueso, a Computer Science student at Rutgers University–Newark and a
 - 👥 I'm a member of the ColorStack Developers Club
 - 🤝 I'm interested in collaborating on software development projects
 - ⚽ Fun fact: I love playing soccer
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kenny-bueso-471178283/)) | KennyBueso7@gmail.com(mailto:YOUR_EMAIL)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kenny-bueso-471178283/) | [EMAIL](mailto:KennyBueso7@gmail.com)
