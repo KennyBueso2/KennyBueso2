@@ -22,3 +22,30 @@ I'm Kenny Bueso, a Computer Science student at Rutgers University–Newark and a
 
 **Design:** Figma
 
+## 🚀 Featured Projects
+
+### 📚 Student Productivity Dashboard
+A full-stack web application designed to help students manage their academic workload.
+
+**Tech:** React, JavaScript, Node.js, Express, SQLite
+
+- Built a dashboard for managing assignments, courses, schedules, and study sessions
+- Developed REST APIs and CRUD functionality for academic data
+- Designed relational SQLite tables for persistent data storage
+- Implemented JWT authentication and protected API routes
+
+🔗 [View Repository](YOUR_REPOSITORY_LINK) Still working on it...
+
+---
+
+### 💰 RUstable — Smart Campus Wallet
+A smart campus wallet developed during HackFest 2025 to help students track and understand their spending.
+
+**Tech:** Node.js, Express, JavaScript, Chart.js
+
+- Contributed to the backend development of the application
+- Developed REST API endpoints for transaction and wallet data
+- Structured application data for campus transactions and balances
+- Collaborated with a 4-person team during a 3-day hackathon
+
+🔗 [View Repository]([YOUR_REPOSITORY_LINK](https://github.com/ikh0khar/smart-campus-wallet/tree/main-v3)) | [View on Devpost]([YOUR_DEVPOST_LINK](https://devpost.com/software/rustable))
