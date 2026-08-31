@@ -48,4 +48,4 @@ A smart campus wallet developed during HackFest 2025 to help students track and 
 - Structured application data for campus transactions and balances
 - Collaborated with a 4-person team during a 3-day hackathon
 
-🔗 [View Repository]([YOUR_REPOSITORY_LINK](https://github.com/ikh0khar/smart-campus-wallet/tree/main-v3)) | [View on Devpost]([YOUR_DEVPOST_LINK](https://devpost.com/software/rustable))
+🔗 [View Repository](https://github.com/ikh0khar/smart-campus-wallet/tree/main-v3) | [View on Devpost](https://devpost.com/software/rustable)
