@@ -11,3 +11,14 @@ I'm Kenny Bueso, a Computer Science student at Rutgers University–Newark and a
 - 🤝 I'm interested in collaborating on software development projects
 - ⚽ Fun fact: I love playing soccer
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kenny-bueso-471178283/) | [EMAIL](mailto:KennyBueso7@gmail.com)
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, Java, JavaScript, SQL, HTML, CSS
+
+**Frameworks & Tools:** React, Node.js, Express.js, Git, GitHub, Chart.js
+
+**Database:** SQLite
+
+**Design:** Figma
+
